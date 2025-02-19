@@ -8,7 +8,7 @@
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java,cs,c"  style="padding:10px; width:40%; height:40%"/>
 
 ### **Frameworks & Bibliothèques**
-<img src="https://skillicons.dev/icons?i=vue,react,nodejs,express,tailwind"  style="padding:10px; width:30%; height:30%"/>
+<img src="https://skillicons.dev/icons?i=vue,react,nodejs,express,tailwind,django"  style="padding:10px; width:30%; height:30%"/>
 
 ### **DevOps**
 <img src="https://skillicons.dev/icons?i=docker,kubernetes"  style="padding:10px; width:10%; height:10%"/>
