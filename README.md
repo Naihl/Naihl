@@ -1,49 +1,46 @@
-<h1 align="center">Bienvenue sur mon GitHub 👋</h1>
-<h2 align="center">Je me présente, Noah 👌 <br>20 ans, Développeur Junior</h2>
+<h1 align="center">Hey ! I'm Naihl 👋 </h1>
+<h2 align="center" >Welcome to my Github !👌</h2>
 
+## 👤 About Me
+I’m passionate about coding and constantly learning new things, but outside of the tech world, here’s a bit about me:
 
-## 🌐 Technologies & Outils :
-### **Langages** 
+- 🏍️ Probably out riding or thinking about motorcycles.
+
+- 🥇 I enjoy sports that push you to surpass yourself.
+
+- 🟦 Passionate about esports, probably watching KC.
+
+## 🌐 Technologies & Tools :
+### **Languages** 
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java,cs,c"  style="padding:10px; width:40%; height:40%"/>
 
-### **Frameworks & Bibliothèques**
-<img src="https://skillicons.dev/icons?i=vue,react,nodejs,express,tailwind,django"  style="padding:10px; width:30%; height:30%"/>
+### **Frameworks & Libraries**
+<img src="https://skillicons.dev/icons?i=vue,nuxt,react,nodejs,express,tailwind,django"  style="padding:10px; width:30%; height:30%"/>
 
 ### **DevOps**
 <img src="https://skillicons.dev/icons?i=docker,kubernetes"  style="padding:10px; width:10%; height:10%"/>
 
-### **Bases de données**
+### **Databases**
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb"  style="padding:10px; width:10%; height:10%"/>
 
-### **Outils**
+### **Tools**
 <img src="https://skillicons.dev/icons?i=vscode,git,github,unity,unreal,photoshop"  style="padding:10px; width:25%; height:25%"/>
 
-
-
-## 📝 Projets :
-- **Nindle (Vue.js | Node.js)**  
-  Un jeu inspiré de *Narutodle*, où les joueurs doivent deviner un personnage mystère en se basant sur des indices de similarités. Les éléments de correspondance sont indiqués en rouge, jaune ou vert, selon leur exactitude.
-
-- **Bot Discord**  
-  Bot Discord d'emploi du temps pour faciliter l'emploi aux étudiants de l'IUT de Calais.
-
-
-
-## 📚 Articles & Contributions :
-- **Contribution Esup-Pod**   
-  Plateforme de gestion de fichiers vidéo. Je contribue en ajoutant des fonctionnalités WebTV, en améliorant la documentation et en corrigeant les bugs.
-- **Création de tutoriel Unity**  
-  Tutoriel pour apprendre les bases de Unity, incluant la création de scènes, l'utilisation de scripts C#, et l'implémentation de mécaniques de jeu de base.
-
-
-## 🎮 Intérêts
-
-En dehors du code, je suis passionné par les motos 🏍️, et l'esport 🎮. J'adore relever de nouveaux défis et apprendre des technologies émergentes.
+## 📚 Projects & Contributions:
+- **Esup-Pod Contribution (Django)**   
+  Open Source video file management platform. I contribute by adding WebTV features, improving documentation, and fixing bugs.
+- **CryptoSquare Project (Nuxt)**   
+  One-week development of a team-based website featuring cryptography puzzles.
+- **CScare Project (UE5)**   
+  Team development of a VR horror game created in one week using Unreal Engine 5.
+- **Unity Tutorial Creation (Unity)**  
+  A tutorial to learn the basics of Unity, including scene creation, C# scripting, and implementing core gameplay mechanics.
 
 
 
-## 📫 Me contacter :
+
+## 📫 Contact Me :
 
 <div align="center">
     <a href="https://www.linkedin.com/in/noah-bonnel-0230612b6/" target="_blank"><img src="https://img.shields.io/badge/-Noah%20Bonnel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -52,8 +49,6 @@ En dehors du code, je suis passionné par les motos 🏍️, et l'esport 🎮. J
 </div>
 
 ---
-
-Merci de votre visite, et n'hésitez pas à explorer mes projets ou à me suivre pour des mises à jour régulières ! 😊
 
 
 
