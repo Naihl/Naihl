@@ -55,17 +55,5 @@ En dehors du code, je suis passionné par les motos 🏍️, et l'esport 🎮. J
 
 Merci de votre visite, et n'hésitez pas à explorer mes projets ou à me suivre pour des mises à jour régulières ! 😊
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=dark
 
-<p align="center">
-    <a href="https://github.com/Naihl">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Naihl&langs_count=8&layout=compact&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/Naihl">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naihl&layout=compact&theme=dark" />
-    </a>
-</p>
 
