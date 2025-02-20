@@ -1,4 +1,4 @@
-<h1 align="center">Hey ! I'm Naihl 👋 </h1>
+<h1 align="center">Hey ! I'm Noah 👋 </h1>
 <h2 align="center" >Welcome to my Github !👌</h2>
 
 ## 👤 About Me
