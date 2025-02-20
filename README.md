@@ -25,7 +25,7 @@ I’m passionate about coding and constantly learning new things, but outside of
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb"  style="padding:10px; width:10%; height:10%"/>
 
 ### **Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,unity,unreal,photoshop"  style="padding:10px; width:25%; height:25%"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,unity,unreal"  style="padding:10px; width:25%; height:25%"/>
 
 ## 📚 Projects & Contributions:
 - **Esup-Pod Contribution (Django)**   
