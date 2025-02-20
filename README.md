@@ -13,7 +13,7 @@ I’m passionate about coding and constantly learning new things, but outside of
 ## 🌐 Technologies & Tools :
 ### **Languages** 
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java,cs,c"  style="padding:10px; width:40%; height:40%"/>
+<img src="https://skillicons.dev/icons?i=js,html,css,python,java,cs,c"  style="padding:10px; width:40%; height:40%"/>
 
 ### **Frameworks & Libraries**
 <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nodejs,express,tailwind,django"  style="padding:10px; width:30%; height:30%"/>
